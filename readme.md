@@ -14,7 +14,7 @@
 ![Docker Pulls]
 
 # a bedrock minecraft PE Server on docker
-this documentation is for image lomot/minecraft-bedrock:1.14.60.5
+this documentation is for image lomot/minecraft-bedrock:1.16.0.2
 
 ## Start a server quickly
 #### 1. install docker on your server
